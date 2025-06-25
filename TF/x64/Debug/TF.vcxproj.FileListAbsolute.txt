@@ -1,0 +1,28 @@
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\Final Work\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\Final Work\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\Final Work\TF\x64\Debug\TF.FrmMain.resources
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\Final Work\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Final Work\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Final Work\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Final Work\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Final Work\TF\x64\Debug\TF.Level1.resources
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Final Work\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+D:\UPC\Ciclo'02\Programming\Projects\Week'16\Final Work\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+D:\UPC\Ciclo'02\Programming\Projects\Week'16\Final Work\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+D:\UPC\Ciclo'02\Programming\Projects\Week'16\Final Work\TF\x64\Debug\TF.FrmMenu.resources
+D:\UPC\Ciclo'02\Programming\Projects\Week'16\Final Work\TF\x64\Debug\TF.Level1.resources
+D:\UPC\Ciclo'02\Programming\Projects\Week'16\Final Work\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\TF\x64\Debug\TF.FrmLevel1.resources
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\TF\x64\Debug\TF.FrmLevel2.resources
+D:\UPC\Ciclo'02\Programming\Projects\Final Work\TF\x64\Debug\TF.FrmStart.resources
+D:\UPC\Ciclo'02\Programming\Projects\TF'VentanillaCity\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+D:\UPC\Ciclo'02\Programming\Projects\TF'VentanillaCity\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+D:\UPC\Ciclo'02\Programming\Projects\TF'VentanillaCity\TF\x64\Debug\TF.FrmLevel2.resources
+D:\UPC\Ciclo'02\Programming\Projects\TF'VentanillaCity\TF\x64\Debug\TF.FrmStart.resources
+D:\UPC\Ciclo'02\Programming\Projects\TF'VentanillaCity\TF\x64\Debug\TF.FrmMenu.resources
+D:\UPC\Ciclo'02\Programming\Projects\TF'VentanillaCity\TF\x64\Debug\TF.FrmLevel1.resources
+D:\UPC\Ciclo'02\Programming\Projects\TF'VentanillaCity\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
