@@ -109,7 +109,7 @@ namespace TF {
 			this->Controls->Add(this->btnLevel2);
 			this->Controls->Add(this->btnLevel1);
 			this->ForeColor = System::Drawing::Color::Lime;
-			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::None;
+			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
 			this->Name = L"FrmStart";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
 			this->Text = L"VENTANILLA CITY";

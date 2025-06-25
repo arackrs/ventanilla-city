@@ -108,7 +108,7 @@ namespace TF {
 			   this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			   this->ClientSize = System::Drawing::Size(1254, 520);
 			   this->Controls->Add(this->lblTimer);
-			   this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::None;
+			   this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
 			   this->HelpButton = true;
 			   this->Name = L"FrmLevel1";
 			   this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;

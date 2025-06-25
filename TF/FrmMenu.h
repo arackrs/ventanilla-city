@@ -188,7 +188,8 @@ namespace TF {
 			this->Controls->Add(this->btnStart);
 			this->Controls->Add(this->chkMusic);
 			this->ForeColor = System::Drawing::SystemColors::ControlText;
-			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::None;
+			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
+			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
 			this->Name = L"FrmMenu";
 			this->Load += gcnew System::EventHandler(this, &FrmMenu::FrmMenu_Load);
 			this->KeyDown += gcnew System::Windows::Forms::KeyEventHandler(this, &FrmMenu::FrmMenu_KeyDown);
